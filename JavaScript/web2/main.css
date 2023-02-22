@@ -1,0 +1,14 @@
+h1{
+   background-color: #0f0;
+   display: inline-block;
+   margin: 200px;
+   width: 50%;
+}
+/*
+    1. none => saytda elementni yo'qatib yaradi
+    2. block => inline elementni block elementa o'tiradi
+    3. inline => block elementni inline elementa o'tiradi
+    4. inline-block => inline elementlara xos xususiyata o'tadi lekin 
+    block elementlarda ishlidigan xossalarni ham qabuk qiladi.
+    Ya'ni margin-top, margin-bottom, width va h.k. larni ishlata olamiz
+*/

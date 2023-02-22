@@ -1,0 +1,22 @@
+@import "./global";
+
+@mixin MainContent() {
+    background-color: yellow;
+    border: 1px solid red;
+}
+
+main {
+    height: 100vh;
+
+    .container {
+        width: 84.5%;
+        margin: 0 auto;
+
+        .content {
+            @include MainContent();
+            padding: 30px;
+            color: $text-color;
+        }
+
+    }
+}

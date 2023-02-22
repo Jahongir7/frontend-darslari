@@ -1,0 +1,13 @@
+main {
+  height: 100vh;
+}
+main .container {
+  width: 84.5%;
+  margin: 0 auto;
+}
+main .container .content {
+  background-color: yellow;
+  border: 1px solid red;
+  padding: 30px;
+  color: #000;
+}/*# sourceMappingURL=style.css.map */

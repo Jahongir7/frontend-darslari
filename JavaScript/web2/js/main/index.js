@@ -1,0 +1,1 @@
+console.log("BU js ichidagi main ichidagi index.js file")
